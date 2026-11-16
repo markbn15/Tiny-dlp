@@ -8,7 +8,7 @@
 
 Copia una URL de YouTube (o SoundCloud, Vimeo, TikTok, Instagram…), y Tiny-dlp la detecta automáticamente desde el portapapeles. Sin ventanas gigantes, sin popups, sin publicidad. Todo desde el icono de la bandeja del sistema.
 
-## 🎯 Características
+## Características
 
 - 🎯 **Interceptor de portapapeles pausable** — detecta URLs sin que copies y pegues manualmente
 - 🎵 **3 modos de descarga**: Audio (MP3) · Vídeo (MP4) · Ambos
@@ -32,7 +32,7 @@ Copia una URL de YouTube (o SoundCloud, Vimeo, TikTok, Instagram…), y Tiny-dlp
 
 ### Opción B — Desde el código
 ```bash
-git clone https://github.com/<tu-usuario>/tiny-dlp.git
+git clone https://github.com/markbn15/tiny-dlp.git
 ```
 ```bash
 cd tiny-dlp
@@ -92,7 +92,3 @@ Tiny-dlp es una interfaz para `yt-dlp`. **Tú** eres responsable del uso que le 
 Hecho por **MarkBN**.
 
 Motor de descarga: yt-dlp (Unlicense).
-
-## 📜 Licencia
-
-MIT

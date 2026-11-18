@@ -98,9 +98,8 @@ Todo se guarda de forma limpia en tu perfil de usuario, sin ensuciar el sistema:
 
 ## ❤️ Créditos
 
-Desarrollado con cariño por [@markbn115](https://www.instagram.com/markbn115/?hl=es) en Instagram.
+Desarrollado con cariño por [@markbn115](https://github.com/markbn15)
 
-- GitHub: [@markbn15](https://github.com/markbn15)
 - Instagram: [@markbn115](https://www.instagram.com/markbn115/?hl=es)
 
 Si te gusta el proyecto, ¡deja una estrella ⭐ en el repo!

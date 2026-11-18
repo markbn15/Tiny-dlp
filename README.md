@@ -1,4 +1,4 @@
-# 🎵 Tiny-dlp - El descargador definitivo ultraligero
+# 📥 Tiny-dlp - El descargador definitivo ultraligero
 
 ![Tiny-dlp Banner](https://img.shields.io/badge/Tiny--dlp-Downloader-1DB954?style=for-the-badge&logo=download&logoColor=white)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -98,12 +98,8 @@ Todo se guarda de forma limpia en tu perfil de usuario, sin ensuciar el sistema:
 
 ## ❤️ Créditos
 
-Desarrollado con cariño por [@markbn115](https://www.instagram.com/markbn115/?hl=es) en Instagram.
+Desarrollado con cariño por [@markbn115](https://github.com/markbn15)
 
-- GitHub: [@markbn15](https://github.com/markbn15)
 - Instagram: [@markbn115](https://www.instagram.com/markbn115/?hl=es)
 
-Si te gusta el proyecto, ¡deja una estrella ⭐ en el repo!
-# O para ejecutar directamente
-python -m pip install -r requirements.txt
-python tinydlp.py
+# Si te gusta el proyecto, ¡deja una estrella ⭐ en el repo!

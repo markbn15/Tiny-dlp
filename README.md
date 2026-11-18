@@ -1,4 +1,4 @@
-# 🎵 Tiny-dlp - El descargador definitivo ultraligero
+# 📥 Tiny-dlp - El descargador definitivo ultraligero
 
 ![Tiny-dlp Banner](https://img.shields.io/badge/Tiny--dlp-Downloader-1DB954?style=for-the-badge&logo=download&logoColor=white)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
